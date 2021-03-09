@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2/oxV3NXz6zaRjWn7jrs7gk2S+kOCVSQqyycIXFZbTPbd68M5IkkImdGyT64uReazWlvTcsYFe4rvAVFodBpcQ==",
+  "dgSpecHash": "HA+3bYxqQcywt/Enrp6sbZkOCcig8M0w52yzqT/AeHKX/hybBFYR8Ennyve0zK3i2fRrb/30SEz9celDciUl4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Applications\\.net\\FutureInvestmentCalculator\\FutureInvestmentCalculator\\FutureInvestmentCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\bootstrap\\4.6.0\\bootstrap.4.6.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
   ],
   "logs": []
 }
